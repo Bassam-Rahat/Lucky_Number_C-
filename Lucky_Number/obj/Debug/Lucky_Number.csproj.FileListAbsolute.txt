@@ -1,0 +1,8 @@
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\obj\Debug\Lucky_Number.csproj.AssemblyReference.cache
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\obj\Debug\Lucky_Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\obj\Debug\Lucky_Number.csproj.CoreCompileInputs.cache
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\bin\Debug\Lucky_Number.exe.config
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\bin\Debug\Lucky_Number.exe
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\bin\Debug\Lucky_Number.pdb
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\obj\Debug\Lucky_Number.exe
+C:\Users\INSIGNIA PC\source\repos\Lucky_Number\Lucky_Number\obj\Debug\Lucky_Number.pdb
